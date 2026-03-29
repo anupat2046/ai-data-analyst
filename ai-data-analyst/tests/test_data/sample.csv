@@ -1,0 +1,101 @@
+id,date,product,category,quantity,price,revenue,customer_id,country
+1,2024-01-03,Laptop,Electronics,2,45000,90000,C001,Thailand
+2,2024-01-05,T-Shirt,Clothing,5,350,1750,C002,Japan
+3,2024-01-07,Rice,Food,10,80,800,C003,USA
+4,2024-01-09,Python Book,Books,3,550,1650,C004,UK
+5,2024-01-11,Smartphone,Electronics,1,28000,28000,C005,Germany
+6,2024-01-13,Jeans,Clothing,4,1200,4800,C006,Thailand
+7,2024-01-15,Cooking Oil,Food,8,120,960,C007,Japan
+8,2024-01-17,Novel,Books,6,280,1680,C008,USA
+9,2024-01-19,Tablet,Electronics,2,18000,36000,C009,UK
+10,2024-01-21,Jacket,Clothing,3,2500,7500,C010,Germany
+11,2024-01-23,Noodles,Food,20,45,900,C011,Thailand
+12,2024-01-25,Science Book,Books,2,620,1240,C012,Japan
+13,2024-01-27,Headphones,Electronics,4,3500,14000,C013,USA
+14,2024-01-29,Dress,Clothing,2,1800,3600,C014,UK
+15,2024-02-01,Coffee,Food,15,95,1425,C015,Germany
+16,2024-02-03,History Book,Books,4,480,1920,C016,Thailand
+17,2024-02-05,Monitor,Electronics,1,12000,12000,C017,Japan
+18,2024-02-07,Shorts,Clothing,7,450,3150,C018,USA
+19,2024-02-09,Sugar,Food,12,55,660,C019,UK
+20,2024-02-11,Comic Book,Books,8,180,1440,C020,Germany
+21,2024-02-13,Keyboard,Electronics,3,1500,4500,C021,Thailand
+22,2024-02-15,Blouse,Clothing,5,900,4500,C022,Japan
+23,2024-02-17,Tea,Food,10,70,700,C023,USA
+24,2024-02-19,Math Book,Books,2,590,1180,C024,UK
+25,2024-02-21,Mouse,Electronics,6,650,3900,C025,Germany
+26,2024-02-23,Sweater,Clothing,3,1600,4800,C026,Thailand
+27,2024-02-25,Salt,Food,25,30,750,C027,Japan
+28,2024-02-27,Art Book,Books,3,420,1260,C028,USA
+29,2024-03-01,SSD Drive,Electronics,2,3200,6400,C029,UK
+30,2024-03-03,Skirt,Clothing,4,750,3000,C030,Germany
+31,2024-03-05,Instant Noodle,Food,30,25,750,C031,Thailand
+32,2024-03-07,Law Book,Books,1,980,980,C032,Japan
+33,2024-03-09,USB Hub,Electronics,5,480,2400,C033,USA
+34,2024-03-11,Polo Shirt,Clothing,6,700,4200,C034,UK
+35,2024-03-13,Butter,Food,8,90,720,C035,Germany
+36,2024-03-15,Travel Book,Books,4,360,1440,C036,Thailand
+37,2024-03-17,Webcam,Electronics,3,2200,6600,C037,Japan
+38,2024-03-19,Scarf,Clothing,5,550,2750,C038,USA
+39,2024-03-21,Flour,Food,15,40,600,C039,UK
+40,2024-03-23,Cook Book,Books,7,320,2240,C040,Germany
+41,2024-03-25,Speaker,Electronics,2,4500,9000,C041,Thailand
+42,2024-03-27,Socks,Clothing,10,120,1200,C042,Japan
+43,2024-03-29,Olive Oil,Food,6,185,1110,C043,USA
+44,2024-04-01,Biography,Books,3,510,1530,C044,UK
+45,2024-04-03,Router,Electronics,1,3800,3800,C045,Germany
+46,2024-04-05,Hat,Clothing,8,380,3040,C046,Thailand
+47,2024-04-07,Soy Sauce,Food,12,65,780,C047,Japan
+48,2024-04-09,Sci-Fi Novel,Books,5,260,1300,C048,USA
+49,2024-04-11,Power Bank,Electronics,4,1800,7200,C049,UK
+50,2024-04-13,Belt,Clothing,6,480,2880,C050,Germany
+51,2024-04-15,Vinegar,Food,9,50,450,C051,Thailand
+52,2024-04-17,Dictionary,Books,2,720,1440,C052,Japan
+53,2024-04-19,Smartwatch,Electronics,,22000,,C053,USA
+54,2024-04-21,Hoodie,Clothing,4,1350,5400,C054,UK
+55,2024-04-23,Pasta,Food,18,55,990,C055,Germany
+56,2024-04-25,Philosophy Book,Books,1,850,850,C056,Thailand
+57,2024-04-27,Earbuds,Electronics,3,2800,8400,C057,Japan
+58,2024-04-29,Cardigan,Clothing,2,1700,3400,C058,USA
+59,2024-05-01,Honey,Food,7,150,1050,C059,UK
+60,2024-05-03,Atlas,Books,3,670,2010,C060,Germany
+61,2024-05-05,Charger,Electronics,8,850,6800,C061,Thailand
+62,2024-05-07,Leggings,Clothing,,580,,C062,Japan
+63,2024-05-09,Jam,Food,14,85,1190,C063,USA
+64,2024-05-11,Poetry Book,Books,4,310,1240,C064,UK
+65,2024-05-13,Hard Drive,Electronics,2,4200,8400,C065,Germany
+66,2024-05-15,Vest,Clothing,5,820,4100,C066,Thailand
+67,2024-05-17,Cereal,Food,10,120,1200,C067,Japan
+68,2024-05-19,Economy Book,Books,2,780,1560,C068,USA
+69,2024-05-21,RAM Module,Electronics,4,2100,8400,C069,UK
+70,2024-05-23,Raincoat,Clothing,3,2200,6600,C070,Germany
+71,2024-05-25,Chocolate,Food,20,95,1900,C071,Thailand
+72,2024-05-27,Grammar Book,Books,5,430,2150,C072,Japan
+73,2024-05-29,Graphics Card,Electronics,1,25000,25000,C073,USA
+74,2024-06-01,Swimwear,Clothing,6,950,5700,C074,UK
+75,2024-06-03,Yogurt,Food,,110,,C075,Germany
+76,2024-06-05,Children Book,Books,8,220,1760,C076,Thailand
+77,2024-06-07,Printer,Electronics,1,8500,8500,C077,Japan
+78,2024-06-09,Underwear,Clothing,12,250,3000,C078,USA
+79,2024-06-11,Pepper,Food,15,35,525,C079,UK
+80,2024-06-13,Self-Help Book,Books,4,490,1960,C080,Germany
+81,2024-06-15,Game Controller,Electronics,2,1950,3900,C081,Thailand
+82,2024-06-17,Blazer,Clothing,2,3500,7000,C082,Japan
+83,2024-06-19,Coconut Milk,Food,11,75,825,C083,USA
+84,2024-06-21,Medical Book,Books,1,1200,1200,C084,UK
+85,2024-06-23,USB Cable,Electronics,15,180,2700,C085,Germany
+86,2024-06-25,Pajamas,Clothing,5,680,3400,C086,Thailand
+87,2024-06-27,Ketchup,Food,8,60,480,C087,Japan
+88,2024-06-29,Engineering Book,Books,2,920,1840,C088,USA
+89,2024-07-01,Laptop Stand,Electronics,,1200,,C089,UK
+90,2024-07-03,Gloves,Clothing,9,320,2880,C090,Germany
+91,2024-07-05,Bread,Food,22,45,990,C091,Thailand
+92,2024-07-07,Short Story,Books,6,195,1170,C092,Japan
+93,2024-07-09,Cooling Pad,Electronics,3,780,2340,C093,USA
+94,2024-07-11,Tank Top,Clothing,8,290,2320,C094,UK
+95,2024-07-13,Cheese,Food,5,320,1600,C095,Germany
+96,2024-07-15,Gaming Laptop,Electronics,50,999999,49999950,C096,Thailand
+97,2024-07-17,Luxury Watch,Clothing,100,888888,88888800,C097,Japan
+98,2024-07-19,Exotic Spice,Food,500,77777,38888500,C098,USA
+1,2024-01-03,Laptop,Electronics,2,45000,90000,C001,Thailand
+2,2024-01-05,T-Shirt,Clothing,5,350,1750,C002,Japan
