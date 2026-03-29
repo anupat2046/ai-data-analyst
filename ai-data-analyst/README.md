@@ -258,21 +258,6 @@ ai-data-analyst/
 ├── start.sh                     # Convenience start script
 └── .env.example                 # Environment variable template
 ```
-
----
-
-## Resume Bullet Points
-
-> Copy-paste ready for your CV / LinkedIn / portfolio.
-
-- Built an end-to-end **AI-powered data analytics platform** with **FastAPI** (async backend) and **Streamlit** (frontend), supporting CSV/Excel/JSON uploads up to 50 MB
-- Integrated **Google Gemini API** to enable natural-language Q&A about datasets in Thai and English, with automatic context injection (column types, statistics, 5-row preview)
-- Implemented **5 ML pipelines** using scikit-learn: Isolation Forest anomaly detection, KMeans clustering with silhouette-based auto-k, multi-model classification (Logistic Regression / Random Forest / Gradient Boosting), PCA visualization, and time-series decomposition
-- Designed a **thread-safe chart generation layer** (Matplotlib/Seaborn) producing base64-encoded PNG charts served via REST API, eliminating global pyplot state race conditions
-- Engineered a **stateless ML engine** with joblib disk persistence (keyed by filename + target) to support concurrent multi-user workloads without cross-user model collision
-- Containerized the full stack with a **multi-stage Docker build** (python:3.11-slim-bookworm), non-root execution, and a background file-janitor coroutine for automatic upload cleanup
-- Achieved **18/18 pytest integration tests** with isolated temp upload directory and mocked Gemini client (zero real API calls during CI)
-
 ---
 
 ## Author
