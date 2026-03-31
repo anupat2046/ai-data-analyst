@@ -76,10 +76,8 @@ Upload CSV/XLSX/JSON  →  Auto EDA  →  ML Analysis  →  AI Chat  →  Execut
 | ![Upload](docs/screenshots/upload.png) | **Data Upload** — drag-and-drop CSV/Excel/JSON, instant overview |
 | ![EDA](docs/screenshots/eda.png) | **Auto EDA** — correlation heatmap, distributions, categorical charts |
 | ![ML](docs/screenshots/ml.png) | **ML Analysis** — anomaly detection, clustering, classification |
-| ![Chat](docs/screenshots/chat.png) | **AI Chat** — Thai/English natural language Q&A about your data |
+| ![Chat](docs/screenshots/ai.png) | **AI Chat** — Thai/English natural language Q&A about your data |
 | ![Report](docs/screenshots/report.png) | **Executive Report** — AI-generated markdown summary |
-
-> Add screenshots to `docs/screenshots/` and update the paths above.
 
 ---
 
