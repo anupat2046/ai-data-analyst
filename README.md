@@ -71,13 +71,27 @@ Upload CSV/XLSX/JSON  →  Auto EDA  →  ML Analysis  →  AI Chat  →  Execut
 
 ## Screenshots
 
-| Page | Description |
-|------|-------------|
-| ![Upload](ai-data-analyst/docs/screenshots/upload.png) | **Data Upload** — drag-and-drop CSV/Excel/JSON, instant overview |
-| ![EDA](ai-data-analyst/docs/screenshots/eda.png) | **Auto EDA** — correlation heatmap, distributions, categorical charts |
-| ![ML](ai-data-analyst/docs/screenshots/ml.png) | **ML Analysis** — anomaly detection, clustering, classification |
-| ![Chat](ai-data-analyst/docs/screenshots/ai.png) | **AI Chat** — Thai/English natural language Q&A about your data |
-| ![Report](ai-data-analyst/docs/screenshots/report.png) | **Executive Report** — AI-generated markdown summary |
+> This is a local application — no hosted demo is available. Run it locally with the Quick Start guide below.
+
+### Data Upload
+**Drag-and-drop CSV / Excel / JSON, instant overview**
+![Upload](ai-data-analyst/docs/screenshots/upload.png)
+
+### Auto EDA
+**Correlation heatmap, distributions, categorical charts**
+![EDA](ai-data-analyst/docs/screenshots/eda.png)
+
+### ML Analysis
+**Anomaly detection, clustering, classification**
+![ML](ai-data-analyst/docs/screenshots/ml.png)
+
+### AI Chat
+**Thai / English natural language Q&A about your data**
+![Chat](ai-data-analyst/docs/screenshots/ai.png)
+
+### Executive Report
+**AI-generated markdown summary with actionable recommendations**
+![Report](ai-data-analyst/docs/screenshots/report.png)
 
 ---
 
